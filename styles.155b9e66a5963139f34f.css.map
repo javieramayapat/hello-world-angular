@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/styles.css"],"names":[],"mappings":"AAEA,OACI,UAAW,CACX,cAAe,CACf,QAAW,CACX,UACJ","file":"styles.155b9e66a5963139f34f.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\nfooter{\n    color:white;\n    position: fixed;\n    bottom: 0px;\n    width: 100%;\n}"],"sourceRoot":"webpack:///"}
