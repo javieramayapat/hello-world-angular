@@ -10,7 +10,7 @@ export class BodyComponent{
   mostrar =  true;
 
   frase:any  = {
-      mensaje: "No tiene nada de malo sentir miedo, siempre y cuando no te dejes vencer",
+      mensaje: "No tiene nada de malo sentir miedo, siempre y cuando no te dejes vencer.",
       author: "Capitán America"
   }
 
